@@ -1,4 +1,4 @@
-# ML-Oct-Recommendation-Engine
+# Recommendation-Engine
 ## Freelancing Portal with ML-Based Segmentation and Recommendation System
 ### How to run:
 
